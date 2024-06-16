@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursoMacoratti\\MacorattiExercicios\\MetodosComRetorno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0450FB3B-1E72-492D-BE8A-D50529B31258}|MetodosComRetorno\\MetodosComRetorno.csproj|c:\\cursomacoratti\\macorattiexercicios\\metodoscomretorno\\metodoscomretorno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0450FB3B-1E72-492D-BE8A-D50529B31258}|MetodosComRetorno\\MetodosComRetorno.csproj|solutionrelative:metodoscomretorno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CursoMacoratti\\MacorattiExercicios\\MetodosComRetorno\\MetodosComRetorno\\Program.cs",
+              "RelativeDocumentMoniker": "MetodosComRetorno\\Program.cs",
+              "ToolTip": "C:\\CursoMacoratti\\MacorattiExercicios\\MetodosComRetorno\\MetodosComRetorno\\Program.cs",
+              "RelativeToolTip": "MetodosComRetorno\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:57:49.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

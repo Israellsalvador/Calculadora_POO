@@ -1,0 +1,14 @@
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.exe
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.deps.json
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.runtimeconfig.json
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.dll
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.pdb
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.AssemblyInfoInputs.cache
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.AssemblyInfo.cs
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.dll
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\refint\MetodosComRetorno.dll
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.pdb
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.genruntimeconfig.cache
+C:\CursoMacoratti\MacorattiExercicios\MetodosComRetorno\MetodosComRetorno\obj\Debug\net8.0\ref\MetodosComRetorno.dll
